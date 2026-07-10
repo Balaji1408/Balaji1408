@@ -79,7 +79,6 @@
   <img src="https://raw.githubusercontent.com/Balaji1408/Balaji1408/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-> ⚠️ The snake image needs a one-time GitHub Actions setup (instructions below) — it animates your contribution graph into a snake eating your commits.
 
 ---
 
